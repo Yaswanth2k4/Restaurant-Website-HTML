@@ -1,0 +1,237 @@
+.menu{
+    position: absolute;
+  width: 424px;
+  height: 80px;
+  left: 508px;
+  top: 5px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 80px;
+  /* identical to box height */
+  
+  text-align: center;
+  text-decoration-line: underline;
+  
+  color: #000000;
+  }
+  .beverages-head{
+    position: absolute;
+  width: 426px;
+  height: 745px;
+  left: 73px;
+  top: 140px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 70px;
+  text-decoration-line: underline;
+  
+  color: #000000;
+  }
+  .beverages{
+    position: absolute;
+  width: 300px;
+  height: 745px;
+  left: 73px;
+  top: 306px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 50px;
+  
+  color: #000000;
+  }
+  .breakfast-head{
+    position: absolute;
+  width: 533px;
+  height: 423px;
+  left: 738px;
+  top: 140px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 70px;
+  text-decoration-line: underline;
+  
+  color: #000000;
+  }
+  .breakfast{
+    position: absolute;
+  width: 433px;
+  height: 423px;
+  left: 738px;
+  top: 286px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 50px;
+  
+  color: #000000;
+  }
+  .tawa-head{
+    position: absolute;
+  width: 302px;
+  height: 343px;
+  left: 70px;
+  top: 831px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 70px;
+  text-decoration-line: underline;
+  
+  color: #000000;
+  }
+  .tawa{
+    position: absolute;
+  width: 302px;
+  height: 343px;
+  left: 70px;
+  top: 985px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  
+  color: #000000;
+  }
+  .thali-head{
+    position: absolute;
+  width: 658px;
+  height: 449px;
+  left: 738px;
+  top: 585px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 70px;
+  text-decoration-line: underline;
+  
+  color: #000000;
+  }
+  .thalis{
+  position: absolute;
+  width: 358px;
+  height: 649px;
+  left: 738px;
+  top: 715px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  
+  color: #000000;
+  
+  }
+  .maincourse-head{
+    position: absolute;
+  width: 686px;
+  height: 1523px;
+  left: 738px;
+  top: 1062px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 70px;
+  text-decoration-line: underline;
+  
+  color: #000000;
+  }
+  .maincourse{
+    position: absolute;
+  width: 386px;
+  height: 1523px;
+  left: 738px;
+  top: 1181px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  
+  color: #000000;
+  }
+  .paneer-head{
+    position: absolute;
+  width: 610px;
+  height: 843px;
+  left: 65px;
+  top: 1123px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 70px;
+  text-decoration-line: underline;
+  
+  color: #000000;
+  }
+  .paneer{
+    position: absolute;
+  width: 310px;
+  height: 843px;
+  left: 65px;
+  top: 1271px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  
+  color: #000000;
+  }
+  .ricebowl-head{
+    position: absolute;
+  width: 551px;
+  height: 653px;
+  left: 65px;
+  top: 1986px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 70px;
+  text-decoration-line: underline;
+  
+  color: #000000;
+  }
+  .ricebowl{
+    position: absolute;
+  width: 551px;
+  height: 653px;
+  left: 65px;
+  top: 2131px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  
+  color: #000000;
+  }
