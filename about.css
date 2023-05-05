@@ -1,0 +1,130 @@
+.about-head{
+    position: absolute;
+  width: 248px;
+  height: 70px;
+  left: 595px;
+  top: 10px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 70px;
+  /* identical to box height */
+  
+  text-align: center;
+  text-decoration-line: underline;
+  
+  color: white;
+  }
+  .head1{
+    position: absolute;
+  width: 490px;
+  height: 50px;
+  left: 456px;
+  top: 160px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 50px;
+  /* identical to box height */
+  
+  text-align: center;
+  
+  color: white;
+  }
+  .head-text1{
+    position: absolute;
+  width: 725px;
+  height: 160px;
+  left: 339px;
+  top: 260px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  text-align: center;
+  
+  color: white;
+  }
+  .head2{
+    position: absolute;
+  width: 339px;
+  height: 50px;
+  left: 532px;
+  top: 460px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 50px;
+  /* identical to box height */
+  
+  text-align: center;
+  
+  color: white;
+  }
+  .head-text2{
+    position: absolute;
+  width: 1074px;
+  height: 80px;
+  left: 193px;
+  top: 560px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  text-align: center;
+  
+  color: white;
+  }
+  .head3{
+    position: absolute;
+  width: 821px;
+  height: 50px;
+  left: 319px;
+  top: 710px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 50px;
+  /* identical to box height */
+  
+  text-align: center;
+  
+  color: white;
+  }
+  .head-text3{
+    position: absolute;
+  width: 1029px;
+  height: 120px;
+  left: 238px;
+  top: 810px;
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+  text-align: center;
+  
+  color: white;
+  }
+  .font
+  {
+    font-family: sans-serif;
+    font-style: Arial;
+    color: white;
+  }
+  body{
+    color: white;
+  }
